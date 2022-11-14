@@ -59,3 +59,16 @@ a{
     border-radius: .1rem;
 }
 
+/* lista de precios */
+.badge{
+    padding: 0.5rem 1rem;
+}
+
+.car-body{
+
+}
+
+/* cards lista de precio */
+.card{
+    padding: 15px;
+}
